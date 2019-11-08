@@ -1,0 +1,13 @@
+{
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "preferredName": "Iron Man",
+    "email": "ironman203@gmail.com",
+    "phoneNumber": "",
+    "city": "Long Island",
+    "state": "New York",
+    "zip": "11101",
+    "lat": "41.65",
+    "lng": "-88.09",
+    "favoriteHobby": "Saving the world"
+}
